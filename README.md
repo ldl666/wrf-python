@@ -14,4 +14,4 @@ plt.contourf()，leves为一个列表，表示色带的范围，extend="both"，
 使用set_label设置色带的标签。
 quiver（）函数，绘制风速矢量，quiverkey（）函数给定标准矢量，及其所在位置。
 
-$^abc$  设置上标，$_sss$ 设置下表
+$^abc$  设置上标，$_sss$ 设置下标
